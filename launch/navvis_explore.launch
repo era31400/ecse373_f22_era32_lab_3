@@ -1,0 +1,5 @@
+<launch>
+
+	<include file="$(find navvis_description)/launch/navvis_description.launch" pass_all_args="true"/>
+
+</launch>
